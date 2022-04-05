@@ -1,2 +1,3 @@
 # flutter_calculator
-A calculator application developed using flutter.
+A simple calculator App developed using flutter.
+![Calculator](https://github.com/TaneemKazi/flutter_calculator/blob/main/ScreenShots/1.jpg)
